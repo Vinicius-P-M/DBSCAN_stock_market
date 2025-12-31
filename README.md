@@ -1,4 +1,4 @@
-# 📊 Clustering Brazilian Stocks with DBSCAN (B3)
+# 📊 Clustering Brazilian Stock Exchange (B3) with DBSCAN
 
 This project applies **unsupervised learning (DBSCAN)** to cluster the **most traded stocks in the Brazilian Stock Exchange (B3)**, aiming to identify **investment profiles, risks, and opportunities** based on financial indicators.
 
